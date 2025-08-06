@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <!--
-**SpookyDRM/SpookyDRM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```json
+{
+  "Bio" : "wannabe reverse engineer",
+  "Interest" : [ "Reverse Engineering", "Software Protection" ],
+  "Socials" : {
+    "Twitter" : "SpookyyyDRM",
+    "Discord" : "40hex",
+  },
+},
+```
