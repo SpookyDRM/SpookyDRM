@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ```json
 {
-  "Bio" : "wannabe reverse engineer",
+  "Bio" : "from SWE to wannabe RE",
   "Interest" : [ "Reverse Engineering", "Software Protection" ],
   "Socials" : {
     "Twitter" : "SpookyyyDRM",
